@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "developer_test_simple": {
+      "commandName": "Project",
+      "commandLineArgs": "candidate1\r\nX01BvqCjkbFpsw5d1gAChjg1RrQc3c2q"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "5dlajZYbhq1uBrAQLgQaruJj8rDGfcVsMV9sr1SkDc2dRNHXY5qkMyV2dt/7MvuIstkLbOsJuDPxPA7dAPUhVw==",
+  "success": true,
+  "projectFilePath": "D:\\developer_test_simple\\developer_test_simple.test\\developer_test_simple.test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mixax\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
+    "C:\\Users\\mixax\\.nuget\\packages\\microsoft.codecoverage\\17.10.0\\microsoft.codecoverage.17.10.0.nupkg.sha512",
+    "C:\\Users\\mixax\\.nuget\\packages\\microsoft.net.test.sdk\\17.10.0\\microsoft.net.test.sdk.17.10.0.nupkg.sha512",
+    "C:\\Users\\mixax\\.nuget\\packages\\microsoft.testplatform.objectmodel\\17.10.0\\microsoft.testplatform.objectmodel.17.10.0.nupkg.sha512",
+    "C:\\Users\\mixax\\.nuget\\packages\\microsoft.testplatform.testhost\\17.10.0\\microsoft.testplatform.testhost.17.10.0.nupkg.sha512",
+    "C:\\Users\\mixax\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\mixax\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\mixax\\.nuget\\packages\\nunit.analyzers\\4.2.0\\nunit.analyzers.4.2.0.nupkg.sha512",
+    "C:\\Users\\mixax\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512",
+    "C:\\Users\\mixax\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512",
+    "C:\\Users\\mixax\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\mixax\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\mixax\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

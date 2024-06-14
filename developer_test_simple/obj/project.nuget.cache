@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "5vtifcVvXSzIzJowDOU0lbkuQ+q434cVPfgieV2U73k0rbxKFu4a/GiJQ4PUwB5FPMkXhZKMPh2I3RRX7izYsg==",
+  "success": true,
+  "projectFilePath": "D:\\developer_test_simple\\developer_test_simple\\developer_test_simple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mixax\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512",
+    "C:\\Users\\mixax\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\mixax\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\mixax\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\mixax\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
